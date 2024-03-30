@@ -1,0 +1,21 @@
+wiki/1
+
+---
+author.name = Charles Iliya Krempeaux
+author.link = http://reiver.link
+---
+
+The day before I was introduced (over LinkedIn) to (the CEO of Koho) Daniel Eberhard by my friend Anthony Tsui.
+
+(Anthony and I have been friends for a number of years, and had met through the tech conferences and tech meetups in Vancouver.)
+
+Daienl responded with this message (over LinkedIn):
+
+― Thanks for the intro Anthony.
+―
+― Pleasure connecting Charles.
+― Can you shoot me an email at daniel@koho.ca and we can discuss this further.
+―
+― In the mean time, you can check out Koho.ca, watch the video, see the team/advisory page.
+―
+― Thanks very much,
