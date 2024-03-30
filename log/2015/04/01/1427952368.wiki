@@ -1,0 +1,26 @@
+wiki/1
+
+---
+author.name = Charles Iliya Krempeaux
+author.link = http://reiver.link
+---
+
+I was introduced to (the CEO of Koho) Daniel Eberhard by my friend Anthony Tsui.
+
+(Anthony and I have been friends for a number of years, and had met through the tech conferences and tech meetups in Vancouver.)
+
+Anthony sent Daienl this message (over LinkedIn):
+
+― Hi Daniel,
+―
+― Please meet Charles, I understand that Koho may be looking for a CTO and I think you guys should talk.
+―
+― Charles has lots of startup tech experience - as a lead engineer at Hootsuite in its early days, and engineering manager at Trulioo when it got started.
+―
+― He was a Principal Software Engineer at EA applying some hard core machine learning and data science to marketing up until a few months ago.
+―
+― He's been doing customer discovery and research on his own startup idea for the past few months.
+― Though he didn't get the validation he needed so he's looking to join another company.
+―
+― Cheers,
+― Anthony
