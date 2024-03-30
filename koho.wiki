@@ -13,4 +13,4 @@ But it provides what normal people consider //banking//.
 I was Koho's founding CTO.
 From ((Thursday May 7th, 2015)) to ((Friday January 12th, 2018)) I worked on Koho.
 
-This is the Koho story from my point of view.
+This is the **Koho story** from my point of view.
