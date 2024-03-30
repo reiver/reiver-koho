@@ -14,3 +14,8 @@ I was Koho's founding CTO.
 From ((Thursday May 7th, 2015)) to ((Friday January 12th, 2018)) I worked on Koho.
 
 This is the **Koho story** from my point of view.
+
+§ Logs
+
+• [[log/2015/06/26/1435356563]]
+• [[log/2015/06/26/1435356568]]
