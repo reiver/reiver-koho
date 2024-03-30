@@ -11,7 +11,8 @@ Legally it isn't a bank yet (as legally that requires a license).
 But it provides what normal people consider //banking//.
 
 I was Koho's founding CTO.
-From ((Thursday May 7th, 2015)) to ((Friday January 12th, 2018)) I worked on Koho.
+From ((Thursday May 7th, 2015)) to ((Friday January 12th, 2018)) I worked on Koho;
+although really this story starts on ((Wednesday April 1st, 2015)) when I first got involved with Koho.
 
 This is the **Koho story** from my point of view.
 
