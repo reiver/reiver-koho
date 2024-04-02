@@ -1,0 +1,8 @@
+wiki/1
+
+---
+author.name = Charles Iliya Krempeaux
+author.link = http://reiver.link
+---
+
+::image:1435356563/IMG_20150626_150923.jpeg::
