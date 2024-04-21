@@ -1,9 +1,6 @@
 wiki/1
 
----
-author.name = Charles Iliya Krempeaux
-author.link = http://reiver.link
----
+⸺ by Charles Iliya Krempeaux
 
 The day before I was introduced (over LinkedIn) to (the CEO of Koho) Daniel Eberhard by my friend Anthony Tsui.
 
