@@ -1,10 +1,8 @@
 wiki/1
 
----
-title = Koho
-author.name = Charles Iliya Krempeaux
-author.link = http://reiver.link/
----
+§ Koho
+
+⸺ by Charles Iliya Krempeaux
 
 **Koho** is a Canadian fintech company that provides banking services.
 Legally it isn't a bank yet (as legally that requires a license).
