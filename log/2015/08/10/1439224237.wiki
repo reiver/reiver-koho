@@ -17,3 +17,10 @@ We sat there waiting to see the first person sign-up for Koho — to get on the 
 The photograph is of the first Koho (waiting-list) sign-up 🙂
 
 ⁁ log/2015/08/10/1439224237/IMG_20150810_163037.jpeg
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Charles Iliya Krempeaux is the founding //chief technology officer// (CTO) of //Koho Financial// — a Canadian fintech company that provides banking services.
+From 2015 to 2018 he worked on Koho.
+He figured out how to build a //bank// — and built it //from scratch//.
+This is the [[koho]] story from his point-of-view.
