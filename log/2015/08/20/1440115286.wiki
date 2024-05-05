@@ -7,7 +7,7 @@ wiki/1
 ⸺ published 2015-08-20T17:01:26-07:00
 
 **Joel Skrepnek** had recently joined Koho.
-And pretty quickly he started working on the Koho mobile app (while I created back-end, and **Scott Bell** design the user-experience and user-interface).
+And pretty quickly he started working on the Koho mobile app (while I (**Charles Iliya Krempeaux**) created back-end, and **Scott Bell** design the user-experience and user-interface).
 
 We took a photo of the mobile app on an actual mobile phone (rather than running in a web browser) and sent it to **Daniel Eberhard** (who had been away from the office).
 
