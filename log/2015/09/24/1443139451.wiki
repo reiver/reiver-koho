@@ -1,0 +1,20 @@
+wiki/1
+
+§ Koho Signs The Contract With Visa Inc (Koho Story)
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2015-09-24T17:04:11-07:00
+
+We (Koho) signed the deal with Visa Inc!
+
+The photo is of Dan signing the contract with Visa Inc.
+
+⁁ log/2015/09/24/1443139451/IMG_20150924_170411.jpeg
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Charles Iliya Krempeaux is the founding //chief technology officer// (CTO) of //Koho Financial// — a Canadian fintech company that provides banking services.
+From 2015 to 2018 he worked on Koho.
+He figured out how to build a //bank// — and built it //from scratch//.
+This is the [[koho]] story from his point-of-view.
