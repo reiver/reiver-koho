@@ -6,7 +6,13 @@ wiki/1
 
 ⸺ next [[log/2015/04/02/1427986368]]
 
-I was introduced to (the CEO of Koho) Daniel Eberhard by my friend Anthony Tsui.
+[[koho]] is a Canadian fintech company that provides banking services.
+I (Charles Iliya Krempeaux) was the founding //chief technology officer// (CTO) of //Koho Financial//.
+From 2015 to 2018 I worked on Koho.
+We figured out how to build a //bank// — and built it.
+This is an event in the //Koho story//.
+
+I was introduced to (the CEO of Koho) **Daniel Eberhard** by my friend **Anthony Tsui**.
 
 (Anthony and I have been friends for a number of years, and had met through the tech conferences and tech meetups in Vancouver.)
 
