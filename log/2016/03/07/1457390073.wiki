@@ -1,0 +1,20 @@
+wiki/1
+
+§ Koho Visa Card Sample (Koho Story)
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2016-03-07T14:34:33-08:00
+
+We received a sample of the Koho Visa card.
+
+This one doesn't actually work — but it lets us see and hold something pretty close to what the //Koho Visa card// will look like (once we get the working versions of the cards).
+
+⁁ log/2016/03/07/1457390073/IMG_20160307_153433.jpeg
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Charles Iliya Krempeaux is the founding //chief technology officer// (CTO) of //Koho Financial// — a Canadian fintech company that provides banking services.
+From 2015 to 2018 he worked on Koho.
+He figured out how to build a //bank// — and built it //from scratch//.
+This is the [[koho]] story from his point-of-view.
