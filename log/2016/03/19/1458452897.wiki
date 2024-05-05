@@ -1,0 +1,20 @@
+wiki/1
+
+§ So Many Koho Stickers (Koho Story)
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2016-03-19T22:48:17-07:00
+
+We ended up getting //a lot// of **Koho stickers**.
+
+We are going to included them when we send people their **Koho Visa card**.
+
+⁁ log/2016/03/19/1458452897/STICKERS.jpeg
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Charles Iliya Krempeaux is the founding //chief technology officer// (CTO) of //Koho Financial// — a Canadian fintech company that provides banking services.
+From 2015 to 2018 he worked on Koho.
+He figured out how to build a //bank// — and built one //from scratch//.
+This is the [[koho]] story from his point-of-view.
