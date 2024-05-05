@@ -1,0 +1,61 @@
+wiki/1
+
+§ The First Koho Transaction (Koho Story)
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2016-03-30T20:50:42-07:00
+
+This is the story of the purchase ever made on a Koho card.
+
+❦
+
+**Amy Soetopo**, who was a //software engineer// at //Stanley Park Ventures// (SPV) and did the original front-end software engineering work for Koho, was leaving SPV going to Spain.
+
+She was having a //going away// party this day.
+
+Before we all (at Koho) went to her party, **Daniel Eberhard** checked the mailbox.
+
+We had been expecting the Visa //white-cards// to arrive for the last couple weeks, but it just happened that they were in the mailbox this time when we checked.
+
+("//White-cards//" are real working //Visa cards// meant for testing purposes, with no decorations or anything else.
+Just a white plastic card with a magnetic strip and CVV on the back, and the card number and expiry date on the front.
+Nothing else — no names, no logos, nothing.)
+
+As the last of us left the party, **Joel Skrepnek** looked at me and said something like, “//we could load the card//”.
+
+To which I responded with something like, “//we __should__ load the card//”.
+
+We went to the Koho office, where Joel logged into the Galileo Processing //administrative system// and put $200 on the //white card//.
+
+(Galileo Processing is a Visa card //payment processor//.
+And like all //payment processors//, they connect Visa to the bank account.)
+
+⁁ log/2016/03/30/1459396242/capture.png
+
+❦
+
+It was late at this time of the evening, and there wasn't much open.
+
+We (i.e., **Joel Skrepnek** and I (**Charles Iliya Krempeaux**)) walked around a bit, and decided to go into the Starbucks on Water Street, in downtown Vancouver.
+
+I convinced the girl working at the Starbucks counter to let me use the white-card, and I bought 2 lemonloafs.
+(One for myself and one for Joel.)
+
+I think I told her something like:
+
+― I am from the bank, and I need to test the credit card payment system.
+
+**The first Koho transaction happened this day.** 🙂
+
+⁁ log/2016/03/30/1459396242/IMG_20160330_205206394.jpeg
+
+⁁ log/2016/03/30/1459396242/IMG_20160330_205819.jpeg
+
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Charles Iliya Krempeaux is the founding //chief technology officer// (CTO) of //Koho Financial// — a Canadian fintech company that provides banking services.
+From 2015 to 2018 he worked on Koho.
+He figured out how to build a //bank// — and built one //from scratch//.
+This is the [[koho]] story from his point-of-view.
