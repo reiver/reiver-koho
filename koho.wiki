@@ -17,7 +17,7 @@ The founding team of **Koho** was myself (**Charles Iliya Krempeaux**), **Daniel
 Later **Joel Skrepnek** was hired, and joined the **Koho** team.
 And after that **Jaclyn Quinn** joined the **Koho** team.
 
-That was Koho at its genesis — when we figured out how to build a //bank// — and built it.
+That was Koho at its genesis — when we figured out how to build a //bank// — and built one //from scratch//.
 
 This is the **Koho story** from my point of view.
 
