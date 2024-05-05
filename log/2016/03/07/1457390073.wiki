@@ -16,5 +16,5 @@ This one doesn't actually work — but it lets us see and hold something pretty 
 
 Charles Iliya Krempeaux is the founding //chief technology officer// (CTO) of //Koho Financial// — a Canadian fintech company that provides banking services.
 From 2015 to 2018 he worked on Koho.
-He figured out how to build a //bank// — and built it //from scratch//.
+He figured out how to build a //bank// — and built one //from scratch//.
 This is the [[koho]] story from his point-of-view.
