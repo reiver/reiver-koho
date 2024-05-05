@@ -6,7 +6,7 @@ wiki/1
 
 ⸺ published 2016-03-30T20:50:42-07:00
 
-This is the story of the purchase ever made on a Koho card.
+This is the story of //the first// purchase ever made on a Koho card.
 
 ❦
 
@@ -37,14 +37,16 @@ And like all //payment processors//, they connect Visa to the bank account.)
 
 It was late at this time of the evening, and there wasn't much open.
 
-We (i.e., **Joel Skrepnek** and I (**Charles Iliya Krempeaux**)) walked around a bit, and decided to go into the Starbucks on Water Street, in downtown Vancouver.
+We (i.e., **Joel Skrepnek** and I (**Charles Iliya Krempeaux**) ) walked around a bit, and decided to go into the Starbucks on Water Street, in downtown Vancouver.
 
 I convinced the girl working at the Starbucks counter to let me use the white-card, and I bought 2 lemonloafs.
 (One for myself and one for Joel.)
 
 I think I told her something like:
 
-― I am from the bank, and I need to test the credit card payment system.
+― I am from //the bank//, and I need to test the credit card payment system.
+
+Someone older might have refused me — but the young girl working at that Starbucks seemed to believe me and let me make the purchase.
 
 **The first Koho transaction happened this day.** 🙂
 
@@ -52,6 +54,7 @@ I think I told her something like:
 
 ⁁ log/2016/03/30/1459396242/IMG_20160330_205819.jpeg
 
+⁁ log/2016/03/30/1459396242/IMG_20160330_205849.jpeg
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
