@@ -1,0 +1,21 @@
+wiki/1
+
+§ First Koho Packaging (Koho Story)
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2016-03-18T12:42:42-07:00
+
+The **Koho packaging** (that would hold the **Koho Visa card**) that **Scott Bell** designed arrived.
+
+In fact, this is //the first// Koho packaging.
+
+⁁ log/2016/03/18/1458330162/IMG_20160318_124237.jpeg
+⁁ log/2016/03/18/1458330162/IMG_20160318_124326.jpeg
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Charles Iliya Krempeaux is the founding //chief technology officer// (CTO) of //Koho Financial// — a Canadian fintech company that provides banking services.
+From 2015 to 2018 he worked on Koho.
+He figured out how to build a //bank// — and built one //from scratch//.
+This is the [[koho]] story from his point-of-view.
