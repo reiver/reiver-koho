@@ -4,13 +4,20 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
-**Koho** is a Canadian fintech company that provides banking services.
+**Koho Financial** is a Canadian fintech company that provides banking services.
 Legally it isn't a bank yet (as legally that requires a license).
-But it provides what normal people consider //banking// services.
+But it provides what //normal people// consider //banking// services.
 
-I was Koho's founding CTO.
-From ((Thursday May 7th, 2015)) to ((Friday January 12th, 2018)) I worked on Koho;
-although really this story starts on ((Wednesday April 1st, 2015)) when I first got involved with Koho.
+I (**Charles Iliya Krempeaux**) was founding //chief technology officer// CTO of **Koho Financial**.
+
+From //Thursday May 7th, 2015// to //Friday January 12th, 2018// I worked on Koho;
+although really this //Koho story// starts on //Wednesday April 1st, 2015// when I first got involved with Koho.
+
+The founding team of **Koho** was myself (**Charles Iliya Krempeaux**), **Daniel Eberhard**, **Scott Bell**; with **Amy Soetopo** doing part-time work on Koho.
+Later **Joel Skrepnek** was hired, and joined the **Koho** team.
+And after that **Jaclyn Quinn** joined the **Koho** team.
+
+That was Koho at its genesis — when we figured out how to build a //bank// — and built it.
 
 This is the **Koho story** from my point of view.
 
