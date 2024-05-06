@@ -6,13 +6,15 @@ wiki/1
 
 ⸺ published 2016-05-02T14:35:13-07:00
 
-**Scott Bell** designed the Koho business cards to look like credi cards — I thought that was both fitting and clever 🙂
+**Scott Bell** designed the Koho business cards to look like credit cards — I thought that was both fitting and clever 🙂
 
 They are even made out of plastic (rather than some type of paper, like most business cards).
 
 I have had many business cards over the decades — but this is the first //plastic// business card I have had.
 
 ⁁ log/2016/05/02/1462224913/IMG_20160502_143513.jpeg
+
+In case it wasn't obvious, the //card number// is as much of h the fibonacci sequence that can fit in 16 digits — 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 8(9).
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
