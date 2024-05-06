@@ -14,7 +14,7 @@ I have had many business cards over the decades — but this is the first //plas
 
 ⁁ log/2016/05/02/1462224913/IMG_20160502_143513.jpeg
 
-In case it wasn't obvious, the //card number// is as much of h the fibonacci sequence that can fit in 16 digits — 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 8(9).
+In case it wasn't obvious, the //card number// is as much of the fibonacci sequence that can fit in 16 digits — 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 8(9).
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
